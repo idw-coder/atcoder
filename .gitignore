@@ -14,5 +14,6 @@ input/
 # Editors
 .vscode/
 .idea/
+.cursorrules
 # Local only (not tracked)
 *.local.*
