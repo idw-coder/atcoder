@@ -4,7 +4,8 @@
     "module": "nodenext",
     "moduleResolution": "nodenext",
     "strict": true,
-    "noEmit": true,
+    "outDir": "dist",
+    "rootDir": "src",
     "types": ["node"],
     "skipLibCheck": true
   },

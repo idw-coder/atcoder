@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "build": "rm -rf dist && tsc",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
