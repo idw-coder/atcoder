@@ -11,6 +11,7 @@ AtCoder の解答をアルゴリズム別に整理した学習記録です。
 
 | フォルダ                  | 内容                           |
 | ------------------------- | ------------------------------ |
+| `src/00_templates`        | 言語ごとのテンプレート         |
 | `src/basics`              | 全探索・シミュレーション・実装 |
 | `src/sorting`             | ソート                         |
 | `src/binary_search`       | 二分探索                       |
@@ -27,7 +28,6 @@ AtCoder の解答をアルゴリズム別に整理した学習記録です。
 | `src/math`                | 整数論・組合せ・mod            |
 | `src/string`              | 文字列                         |
 | `src/misc`                | その他                         |
-| `templates`               | 言語ごとのテンプレート         |
 
 ## セットアップ
 
@@ -40,7 +40,7 @@ npm install
 テンプレートをコピーして、`src/<フォルダ>/<コンテストID>_<問題ID>.<拡張子>` という名前で保存します。
 
 ```bash
-cp templates/solution.ts src/dp/abc300_d.ts
+cp src/00_templates/solution.ts src/dp/abc300_d.ts
 ```
 
 ## 実行
