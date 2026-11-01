@@ -17,4 +17,6 @@ input/
 .idea/
 .cursorrules
 # Local only (not tracked)
-*.local.*
+# *.local.* は .git/info/exclude に書いている（ここに書くと prettier が整形対象外にするため）
+# 別の環境で clone したら .git/info/exclude に「*.local.*」を追加すること
+# *.local.*
