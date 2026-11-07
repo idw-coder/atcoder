@@ -33,7 +33,7 @@ AtCoder の解答をアルゴリズム別に整理した学習記録です。
 ### 実行
 
 ```bash
-node src/dp/abc300_d.ts < input/input01.txt
+node src/dp/20261107_abc300_d.ts < input/input01.txt
 ```
 
 ### ビルド
@@ -42,7 +42,7 @@ node src/dp/abc300_d.ts < input/input01.txt
 
 ```bash
 npm run build
-node dist/dp/abc300_d.js < input/input01.txt
+node dist/dp/20261107_abc300_d.js < input/input01.txt
 ```
 
 ### 型チェック
