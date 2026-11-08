@@ -34,24 +34,6 @@ const countLess = (arr: number[], r: number) => {
 // console.error(sortedRow);
 // console.error(sortedCol);
 /** https://atcoder.jp/contests/abc482/tasks/abc482_c */
-/*
- * 縦 H マス、横 W マスのグリッドがあります。上から i 行目、左から j 列目のマスを (i,j)
- *
- * Q 個のクエリに答えてください。クエリは以下の 2 種類です。
- * 1 u d： u 行目から d 行目までに置かれている駒の個数を出力する。
- * 2 l r： l 列目から r 列目までに置かれている駒の個数を出力する。
- *
- *
- * 1≤H,W≤10 ** 9
- * 1≤N≤min(H×W,3×10 ** 5)
- * 1≤R i ≤h
- * 1≤C i ≤W
- * i!==j ならば (R i,C i)!==(R j,C j)
- * 1≤Q≤3×10 ** 5
- * 1≤u≤d≤H
- * 1≤l≤r≤W入力される値は全て整数
- */
-
 const result: number[] = [];
 for (const query of queries) {
   if (query[0] === 1)
