@@ -28,25 +28,6 @@ AtCoder の解答をアルゴリズム別に整理した学習記録です。
 | `src/string`              | 文字列              |
 | `src/misc`                | その他              |
 
-## Usage
+## 実施済みコンテスト
 
-### 実行
-
-```bash
-node src/dp/20261107_abc300_d.ts < input/input01.txt
-```
-
-### ビルド
-
-`src/` の `.ts` をまとめて JavaScript に変換し、`dist/` に出力します（`dist/` は毎回作り直され、Git の管理対象外）。
-
-```bash
-npm run build
-node dist/dp/20261107_abc300_d.js < input/input01.txt
-```
-
-### 型チェック
-
-```bash
-npm run typecheck
-```
+- [ABC482](https://atcoder.jp/contests/abc482)
