@@ -31,3 +31,4 @@ AtCoder の解答をアルゴリズム別に整理した学習記録です。
 ## 実施済みコンテスト
 
 - [ABC482](https://atcoder.jp/contests/abc482)
+- [ABC480](https://atcoder.jp/contests/abc480)
