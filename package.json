@@ -4,10 +4,15 @@
   "private": true,
   "scripts": {
     "build": "rm -rf dist && tsc",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
-    "typescript": "^7.0.2"
+    "eslint": "^10.14.0",
+    "eslint-config-prettier": "^10.1.8",
+    "typescript": "^7.0.2",
+    "typescript-eslint": "^8.72.2"
   }
 }
