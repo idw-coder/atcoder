@@ -1,11 +1,17 @@
+<div align="center">
+
 # atcoder-solutions
 
+![AtCoder](https://img.shields.io/badge/AtCoder-222222)
+
 AtCoder の解答をアルゴリズム別に整理した学習記録です。
+
+</div>
 
 ## ルール
 
 - 開催中のコンテストの解答は push しない（コンテスト終了後に push する）
-- 問題文は転載せず、URL で参照しています。（問題文の著作権）
+- 問題文は転載せず、URL で参照しています（問題文の著作権）
 
 ## フォルダ構成
 
@@ -30,5 +36,6 @@ AtCoder の解答をアルゴリズム別に整理した学習記録です。
 
 ## 実施済みコンテスト
 
-- [ABC482](https://atcoder.jp/contests/abc482)
+- [ABC478](https://atcoder.jp/contests/abc478)
 - [ABC480](https://atcoder.jp/contests/abc480)
+- [ABC482](https://atcoder.jp/contests/abc482)
