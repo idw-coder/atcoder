@@ -1,21 +1,28 @@
 <div align="center">
-
-# atcoder-solutions
+<pre>
+ █████╗ ████████╗ ██████╗ ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗╚══██╔══╝██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+███████║   ██║   ██║     ██║   ██║██║  ██║█████╗  ██████╔╝
+██╔══██║   ██║   ██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗
+██║  ██║   ██║   ╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║
+╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+███████╗ ██████╗ ██╗     ██╗   ██╗████████╗██╗ ██████╗ ███╗   ██╗███████╗
+██╔════╝██╔═══██╗██║     ██║   ██║╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝
+███████╗██║   ██║██║     ██║   ██║   ██║   ██║██║   ██║██╔██╗ ██║███████╗
+╚════██║██║   ██║██║     ██║   ██║   ██║   ██║██║   ██║██║╚██╗██║╚════██║
+███████║╚██████╔╝███████╗╚██████╔╝   ██║   ██║╚██████╔╝██║ ╚████║███████║
+╚══════╝ ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+</pre>
 
 ![AtCoder](https://img.shields.io/badge/AtCoder-222222)
 
-AtCoder の解答をアルゴリズム別に整理した学習記録です。
+My AtCoder solutions, sorted by algorithm.
 
-</div>
+I do not push solutions while a contest is running. I push them after it ends.
 
-## ルール
+I do not copy problem statements. I link to them by URL (copyright).
 
-- 開催中のコンテストの解答は push しない（コンテスト終了後に push する）
-- 問題文は転載せず、URL で参照しています（問題文の著作権）
-
-## フォルダ構成
-
-| フォルダ                  | 内容                |
+| Folder                    | Contents            |
 | ------------------------- | ------------------- |
 | `src/basics`              | 全探索, etc.        |
 | `src/sorting`             | ソート              |
@@ -34,8 +41,11 @@ AtCoder の解答をアルゴリズム別に整理した学習記録です。
 | `src/string`              | 文字列              |
 | `src/misc`                | その他              |
 
-## 実施済みコンテスト
+Contests Attempted
 
-- [ABC478](https://atcoder.jp/contests/abc478)
-- [ABC480](https://atcoder.jp/contests/abc480)
-- [ABC482](https://atcoder.jp/contests/abc482)
+[ABC476](https://atcoder.jp/contests/abc476)
+[ABC478](https://atcoder.jp/contests/abc478)
+[ABC480](https://atcoder.jp/contests/abc480)
+[ABC482](https://atcoder.jp/contests/abc482)
+
+</div>
