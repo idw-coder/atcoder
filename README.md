@@ -43,6 +43,7 @@ I do not copy problem statements. I link to them by URL (copyright).
 
 Contests Attempted
 
+[ABC474](https://atcoder.jp/contests/abc474)
 [ABC476](https://atcoder.jp/contests/abc476)
 [ABC478](https://atcoder.jp/contests/abc478)
 [ABC480](https://atcoder.jp/contests/abc480)
