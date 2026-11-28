@@ -39,11 +39,13 @@ I do not copy problem statements. I link to them by URL (copyright).
 | `src/segment_tree`        | セグメント木        |
 | `src/math`                | 整数論・組合せ・mod |
 | `src/string`              | 文字列              |
+| `src/permutation`         | 順列全探索          |
 | `src/misc`                | その他              |
 
 Contests Attempted
 
 [ABC466](https://atcoder.jp/contests/abc466)
+[ABC468](https://atcoder.jp/contests/abc468)
 [ABC470](https://atcoder.jp/contests/abc470)
 [ABC472](https://atcoder.jp/contests/abc472)
 [ABC474](https://atcoder.jp/contests/abc474)
